@@ -56,7 +56,6 @@ void loop()
     // Now type "you are pwned" in caps
     Keyboard.write( KEY_CAPS_LOCK );
     Keyboard.print("you are pwned");
-
   }
 }
 
