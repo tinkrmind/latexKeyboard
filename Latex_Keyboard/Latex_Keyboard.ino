@@ -3,6 +3,9 @@
 //Code is subject to Creative Commons Sharealike 4.0 lisence
 //Author: Amitabh Shrivastava (tinkrmind@gmail.com)
 
+
+#include <Keyboard.h>
+
 int rows[]={11, 10, 9, 8};
 int cols[]={7, 6, 5, 4};
 int i, j, button;
